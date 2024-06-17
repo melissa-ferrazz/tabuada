@@ -1,4 +1,4 @@
-console.log(" digite um número para gerar sua tabuada ")
+console.log(" digite um número para gerar sua tabuada ");
 let num = 0;
 let tabuada =[];
 
